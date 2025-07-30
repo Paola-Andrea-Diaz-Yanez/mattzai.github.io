@@ -3,8 +3,6 @@
     padding: 0;
 }
 
-/*index*/
-
 .nombre-navbar {
     font-size: 0.87rem;
 }
@@ -15,29 +13,14 @@
     }
 }
 
-#perfil {
-    background-color: #006cbd;
-    color: white;
-    padding: 60px 0;
-    text-align: center;
-}
-
-#perfil h1 {
-    font-size: 2.5rem;
-}
-
-.section-title {
-    margin-top: 40px;
-    margin-bottom: 20px;
-    font-weight: bold;
+.fondo-seccion {
+  background-color: #006cbd;
+  padding: 60px 0;
 }
 
 .icon {
     color: #006cbd;
 }
-
-
-/*Portafolio*/
 
 .card-img-top {
     height: 200px;
